@@ -1,0 +1,29 @@
+[33mcommit f296b2ebf48a2b93476de4768e914984ffb7ac49[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: SamGeeen <mohannedwheibeh@gmail.com>
+Date:   Wed Feb 12 18:00:30 2025 +0300
+
+    change to night mode
+
+[33mcommit 894210905a97a735a573deff83a348a92f50b1ba[m
+Author: SamGeeen <mohannedwheibeh@gmail.com>
+Date:   Wed Feb 12 17:57:19 2025 +0300
+
+    Center the header in the screen
+
+[33mcommit 00602f1960c11ad467540f6d0af9b1aff83858f3[m
+Author: SamGeeen <mohannedwheibeh@gmail.com>
+Date:   Wed Feb 12 17:45:45 2025 +0300
+
+    Add style link to the html
+
+[33mcommit 7475109c8beaa1d6dff56d841e068310234b6ab8[m
+Author: SamGeeen <mohannedwheibeh@gmail.com>
+Date:   Wed Feb 12 17:38:48 2025 +0300
+
+    Add a header and a title
+
+[33mcommit d824c36b753fd0402c80cbc3ddc3b4d23c6cc2d6[m
+Author: SamGeeen <mohannedwheibeh@gmail.com>
+Date:   Wed Feb 12 17:31:34 2025 +0300
+
+    Add html/css files
